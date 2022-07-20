@@ -1,8 +1,6 @@
 DevByteRepository - Solution Code
 ==================================
 
-Solution code for the Repository codelab.
-
 Introduction
 ------------
 
